@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There 🙋‍♀️+I+Am+Shreya !!;🚀 Striving+for+Small+Wins+and+Incremental+Progress;Welcome+to+my+Github.;&font=Arial&center=true&width=1000&height=50&duration=4000&pause=1000&size=30&color=ADD8E6" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+There 🙋‍♀️+I+Am+Shreya !!;🚀 Striving+for+Small+Wins+and+Incremental+Progress;Welcome+to+my+Github.;&font=Arial&center=true&width=1000&height=50&duration=4000&pause=1000&size=30&color=EE82EE" alt="Example Usage - README Typing SVG">
 </p>
 <hr>
 
